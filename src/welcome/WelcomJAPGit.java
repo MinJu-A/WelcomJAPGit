@@ -1,5 +1,8 @@
+//pakage 이름은 항상 소문자로 시작
 package welcome;
 
+
+//Class 이름은 항상 대문자로 시작
 public class WelcomJAPGit {
 
 	public static void main(String[] args) {
@@ -10,7 +13,6 @@ public class WelcomJAPGit {
 		System.out.println("Welcom JAP Git ❤️");
 		System.out.println("나는 202045101 김민주");
 		
-//		아주 살짝의 수정을 하였다 메롱메롱 허유진
 	}
 
 }
