@@ -13,9 +13,10 @@ public class WelcomJAPGit {
 		System.out.println("Welcom JAP Git ❤️");
 		System.out.println("나는 202045101 김민주");
 		System.out.println("test");
-		
-		
-//		test1
+
+ //		이건 test2
+//   test1 머지할때 이렇게 바꾸는 겁니다
+
 		
 		
 		
