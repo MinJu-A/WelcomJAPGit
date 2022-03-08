@@ -14,10 +14,10 @@ public class WelcomJAPGit {
 		System.out.println("나는 202045101 김민주");
 		System.out.println("test");
 		
+//		브랜치 만들기-충돌생성용으로 미리 만들었어요
+//		브랜치 2 만들었음!
 		
-//    수정 창에서 수정을 한 거예요
-//		이건 처음 브랜치
-//		일부러 충돌을 한 번 시켜보겠습니다
+		
 
 		
 		
