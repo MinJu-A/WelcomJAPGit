@@ -15,7 +15,7 @@ public class WelcomJAPGit {
 		System.out.println("test");
 		
 //		브랜치 만들기-충돌생성용으로 미리 만들었어요
-//		브랜치 2 만들었음!
+//		충돌을 시켜볼게요
 		
 		
 
