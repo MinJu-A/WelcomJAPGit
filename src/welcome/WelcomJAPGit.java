@@ -15,7 +15,7 @@ public class WelcomJAPGit {
 		System.out.println("test");
 		
 		
-//		merge 일부러 충돌 시키기
+//		일부러 충돌을 한 번 시켜보겠습니다
 		
 		
 		
