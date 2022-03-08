@@ -15,7 +15,10 @@ public class WelcomJAPGit {
 		System.out.println("test");
 		
 		
+//    수정 창에서 수정을 한 거예요
 //		이건 처음 브랜치
+//		일부러 충돌을 한 번 시켜보겠습니다
+
 		
 		
 		
