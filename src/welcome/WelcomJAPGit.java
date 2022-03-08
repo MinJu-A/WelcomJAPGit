@@ -8,7 +8,7 @@ public class WelcomJAPGit {
 	public static void main(String[] args) {
 		System.out.println("Welcom JAP Git ❤️");
 		System.out.println("나는 202045101 김민주");
-		System.out.println("test");
+		System.out.println("tedddddddddst");
 		
 
 		
