@@ -18,7 +18,6 @@ public class WelcomJAPGit {
 		
 		
 		
-		//test1 브랜치 입니다
 		
 	}
 
