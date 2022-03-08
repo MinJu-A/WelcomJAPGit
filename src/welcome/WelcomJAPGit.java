@@ -12,6 +12,7 @@ public class WelcomJAPGit {
 //		한 프로젝트에 모두의 이름이 들어갈 수 있게!
 		System.out.println("Welcom JAP Git ❤️");
 		System.out.println("나는 202045101 김민주");
+		System.out.println("test");
 		
 	}
 
