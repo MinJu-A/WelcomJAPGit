@@ -15,7 +15,7 @@ public class WelcomJAPGit {
 		System.out.println("test");
 		
 		
-		
+//		이건 test2
 		
 		
 		
