@@ -15,7 +15,7 @@ public class WelcomJAPGit {
 		System.out.println("test");
 		
 		
-//		merge 일부러 충돌 시키기
+//		이건 처음 브랜치
 		
 		
 		
