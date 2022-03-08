@@ -14,6 +14,12 @@ public class WelcomJAPGit {
 		System.out.println("나는 202045101 김민주");
 		System.out.println("test");
 		
+		
+		
+		
+		
+		//test1 브랜치 입니다
+		
 	}
 
 }
