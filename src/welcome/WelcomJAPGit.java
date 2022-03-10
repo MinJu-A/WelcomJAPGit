@@ -12,10 +12,8 @@ public class WelcomJAPGit {
 		
 
 
-		
-		
 //		여기는 my branch 입니다.
-		
+
 		
 	}
 
