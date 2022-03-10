@@ -10,8 +10,10 @@ public class WelcomJAPGit {
 		System.out.println("나는 202045101 김민주");
 		System.out.println("test");
 		
-// 여기는 test1
-		
+
+
+//		여기는 my branch 입니다.
+
 		
 	}
 
