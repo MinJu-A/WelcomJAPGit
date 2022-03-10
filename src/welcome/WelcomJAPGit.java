@@ -9,11 +9,10 @@ public class WelcomJAPGit {
 		System.out.println("Welcom JAP Git ❤️");
 		System.out.println("나는 202045101 김민주");
 		System.out.println("test");
-//		hjlkghcfhuygihjlks
+		
+//		여기는 test1 입니다.
 		
 
-		
-//	뭐가 문제인 것인가	
 		
 	}
 
