@@ -11,7 +11,7 @@ public class WelcomJAPGit {
 		System.out.println("test");
 		
 
-
+		System.out.println("202045016/허유진/2-A");
 //		여기는 my branch 입니다.
 
 		
