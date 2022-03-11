@@ -14,7 +14,9 @@ public class WelcomJAPGit {
 
 //		여기는 my branch 입니다.
 
-		
+
+		System.out.println("나는 202145022 2학년 A반 전우진");
+
 	}
 
 }
