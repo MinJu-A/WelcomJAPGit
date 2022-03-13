@@ -13,6 +13,8 @@ public class WelcomJAPGit {
 
 
 //		여기는 my branch 입니다.
+		System.out.println("202145102 C반 주호정");
+		
 
 //	real_test055
 		System.out.println("202145055 2학년  B반 이인범 ");
