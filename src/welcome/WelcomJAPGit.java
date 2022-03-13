@@ -8,13 +8,14 @@ public class WelcomJAPGit {
 	public static void main(String[] args) {
 		System.out.println("Welcom JAP Git ❤️");
 		System.out.println("나는 202045101 김민주");
-		System.out.println("tedddddddddst");
+		System.out.println("test");
 		
 
-		
 
-		
-//	뭐가 문제인 것인가	
+//		여기는 my branch 입니다.
+
+//	real_test089
+		System.out.println("202145089 2학년  C반 김지은");
 		
 	}
 
