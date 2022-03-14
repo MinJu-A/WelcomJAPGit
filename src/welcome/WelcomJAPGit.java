@@ -14,6 +14,7 @@ public class WelcomJAPGit {
 		System.out.println("나는 202045101 김민주");
 		System.out.println("test");
 		
+		System.out.println("2학년/B반/조화영");
 		
 //    수정 창에서 수정을 한 거예요
 //		이건 처음 브랜치
