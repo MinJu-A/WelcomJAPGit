@@ -11,7 +11,6 @@ public class WelcomJAPGit {
 		System.out.println("test");
 		
 
-
 //real_test096 호정
 		System.out.println("202145102 C반 주호정");
 		
@@ -22,6 +21,10 @@ public class WelcomJAPGit {
 		
 //	real_test096 test 슬기
 		System.out.println("저는 202145096 이슬기입니다.");
+		
+		
+// real_test058 이수
+		System.out.println("저는 201945058 2학년 B반 이수입니다.");
 	}
 
 }
